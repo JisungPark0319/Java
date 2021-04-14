@@ -1,5 +1,18 @@
 # monitoring
-모니터링 제어 시스템
+
+### 모니터링 제어 시스템
+
+진행 기간 : 2020. 05. 22 ~ 2020. 05.24
+
+인원 : 1인
+
+Tool : Eclipse
+
+Java Version : JavaSE-1.8
+
+Tomcat Version : 9.0.33
+
+MySql Version : 8.0
 
 Server
   - client와 Socket통신 구현
@@ -23,16 +36,3 @@ html
 개선사항
   - 추가적인 기능 및 페이지 디자인 개선 필요
   - 기능 추가로 db구조 설계 필요
-
-진행 기간 : 2020. 05. 22 ~ 2020. 05.28
-
-인원 : 1인
-
-Tool : Eclipse
-
-Java Version : JavaSE-1.8
-
-Tomcat Version : 9.0.33
-
-MySql Version : 8.0
-
