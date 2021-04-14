@@ -12,5 +12,5 @@ Socket 통신과 Spring Framework로 Client(Device)의 데이터를 웹에 출�
 
 ### springBook
 * * *
-교재: 스프링 퀵 스타트(Spring Quick Start)
+교재: 스프링 퀵 스타트(Spring Quick Start)   
 스프링을 이용한 게시판 구현 실습
